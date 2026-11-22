@@ -61,6 +61,8 @@ Simpan folder project di dalam folder htdocs.
 Buka browser.
 Masukkan alamat berikut:
 http://localhost/lab8_php_database/index.php
+<img width="648" height="685" alt="image" src="https://github.com/user-attachments/assets/dce7a45c-0f40-4522-9eef-fc4d13d8d65f" />
+
 
  Kesimpulan
 Melalui praktikum ini, saya dapat memahami cara menghubungkan PHP dengan database MySQL serta membuat aplikasi sederhana untuk mengelola data barang. Saya juga mempelajari proses menampilkan, menambahkan, mengubah, dan menghapus data menggunakan PHP dan MySQL.
